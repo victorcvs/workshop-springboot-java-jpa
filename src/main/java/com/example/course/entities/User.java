@@ -1,4 +1,4 @@
-package com.example.demo.entities;
+package com.example.course.entities;
 
 import java.io.Serializable;
 
